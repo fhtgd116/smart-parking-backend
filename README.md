@@ -1,7 +1,7 @@
 # smart-parking-backend
 Node.js기반 스마트 파킹 시스템을 위한 MQTT·MongoDB·REST API 기반 백엔드
 
-# -# Smart Parking System - Backend (Server & Communication)
+# # Smart Parking System - Backend (Server & Communication)
 
 본 프로젝트는 YOLO 기반 차량 인식 결과를 실시간으로 수집하고,  
 주차면 상태 및 불법 주정차 정보를 안정적으로 저장·가공하여  
