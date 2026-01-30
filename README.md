@@ -9,6 +9,7 @@ Node.js기반 스마트 파킹 시스템을 위한 MQTT·MongoDB·REST API 기�
 
 IoT 환경에 적합한 MQTT 기반 메시징과 MongoDB, REST API 구조를 적용하여  
 실시간성, 확장성, 유지보수성을 동시에 확보하는 것을 목표로 한다.
+<img width="2289" height="1396" alt="시퀀스 다이어그램" src="https://github.com/user-attachments/assets/94822ee9-3122-4832-9803-1110492a7ebf" />
 
 ---
 
@@ -35,7 +36,8 @@ IoT 환경에 적합한 MQTT 기반 메시징과 MongoDB, REST API 구조를 적
 6. REST API가 DB 조회  
 7. Flutter 앱이 API 호출하여 화면 갱신  
 
-![DataFlow](images/dataflow.png)
+<img width="2289" height="1396" alt="dataflow" src="https://github.com/user-attachments/assets/d81bb0f8-4c70-49c9-b561-dfd1e954bfb9" />
+
 
 ---
 
