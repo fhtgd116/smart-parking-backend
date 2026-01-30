@@ -21,8 +21,7 @@ IoT 환경에 적합한 MQTT 기반 메시징과 MongoDB, REST API 구조를 적
 - MongoDB Atlas
 - REST API Server (Express)
 - Flutter Client
-
-![Architecture](images/architecture.png)
+<img width="2289" height="1396" alt="architecture" src="https://github.com/user-attachments/assets/8ebfc483-3e27-4d4e-94a9-146ecce511ef" />
 
 ---
 
